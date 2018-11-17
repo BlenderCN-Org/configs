@@ -1,1 +1,0 @@
-{"net":{"http_server_properties":{"servers":[{"https://accounts.google.com":{"alternative_service":[{"advertised_versions":[43],"expiration":"13183208090584187","port":443,"protocol_str":"quic"}],"network_stats":{"srtt":34944},"supports_spdy":true}}],"supports_quic":{"address":"2a02:8108:2c0:112c:f8db:9c14:1ccb:23b1","used_quic":true},"version":5}}}
