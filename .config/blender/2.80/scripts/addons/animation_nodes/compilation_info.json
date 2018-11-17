@@ -1,0 +1,14 @@
+{
+    "sys.version": "3.6.3 (default, Oct 24 2017, 14:48:20) \n[GCC 7.2.0]",
+    "sys.platform": "linux",
+    "sys.api_version": 1013,
+    "sys.version_info": [
+        3,
+        6,
+        3,
+        "final",
+        0
+    ],
+    "Cython.__version__": "0.27.3",
+    "os.name": "posix"
+}

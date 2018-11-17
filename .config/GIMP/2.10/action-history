@@ -1,0 +1,23 @@
+# GIMP action-history
+
+(history-item "file-save" 3)
+(history-item "tools-opacity-decrease" 1)
+(history-item "edit-clear" 0)
+(history-item "layers-delete" 1)
+(history-item "file-export-as" 2)
+(history-item "dialogs-toolbox" 0)
+(history-item "image-configure-grid" 0)
+(history-item "image-duplicate" 0)
+(history-item "file-save-as" 1)
+(history-item "tools-scale" 0)
+(history-item "layers-new" 0)
+(history-item "layers-duplicate" 0)
+(history-item "tools-move" 0)
+(history-item "tools-text" 0)
+(history-item "dockable-close-tab" 0)
+(history-item "dialogs-fonts" 0)
+(history-item "windows-tab-position" 0)
+(history-item "dialogs-tool-options" 0)
+(history-item "file-quit" 1)
+
+# end of action-history

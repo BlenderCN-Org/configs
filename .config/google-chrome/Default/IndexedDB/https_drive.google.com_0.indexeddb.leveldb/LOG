@@ -1,0 +1,6 @@
+2018/10/09-12:39:02.232 10092 Reusing MANIFEST /home/moritz/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2018/10/09-12:39:02.232 10092 Recovering log #4
+2018/10/09-12:39:02.250 10092 Reusing old log /home/moritz/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000004.log 
+2018/10/09-12:39:02.549 3717 Level-0 table #8: started
+2018/10/09-12:39:02.571 3717 Level-0 table #8: 554605 bytes OK
+2018/10/09-12:39:02.576 3717 Delete type=0 #4
