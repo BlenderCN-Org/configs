@@ -1,0 +1,6 @@
+2018/11/06-22:41:44.941 20441 Reusing MANIFEST /home/moritz/.config/google-chrome/Default/IndexedDB/https_www.amazon.de_0.indexeddb.leveldb/MANIFEST-000001
+2018/11/06-22:41:44.941 20441 Recovering log #13
+2018/11/06-22:41:44.942 20441 Reusing old log /home/moritz/.config/google-chrome/Default/IndexedDB/https_www.amazon.de_0.indexeddb.leveldb/000013.log 
+2018/11/06-22:41:46.322 12784 Level-0 table #17: started
+2018/11/06-22:41:46.357 12784 Level-0 table #17: 1269300 bytes OK
+2018/11/06-22:41:46.360 12784 Delete type=0 #13

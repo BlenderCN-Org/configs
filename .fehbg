@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --bg-scale '/home/moritz/Pictures/Wallpapers/2018-11-11_Wallpaper01.png' 

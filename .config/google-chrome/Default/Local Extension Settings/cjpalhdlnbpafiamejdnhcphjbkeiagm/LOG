@@ -1,0 +1,25 @@
+2018/11/13-18:29:28.933 2267 Reusing MANIFEST /home/moritz/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2018/11/13-18:29:28.933 2267 Recovering log #358
+2018/11/13-18:29:28.940 2267 Reusing old log /home/moritz/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000358.log 
+2018/11/13-18:38:32.855 15471 Level-0 table #362: started
+2018/11/13-18:38:32.882 15471 Level-0 table #362: 2007032 bytes OK
+2018/11/13-18:38:32.885 15471 Delete type=0 #358
+2018/11/13-18:40:32.349 15471 Level-0 table #364: started
+2018/11/13-18:40:32.377 15471 Level-0 table #364: 1688132 bytes OK
+2018/11/13-18:40:32.380 15471 Delete type=0 #361
+2018/11/13-18:40:32.381 15471 Compacting 4@0 + 3@1 files
+2018/11/13-18:40:32.435 15471 Generated table #365@0: 10 keys, 2206510 bytes
+2018/11/13-18:40:32.475 15471 Generated table #366@0: 11 keys, 2154250 bytes
+2018/11/13-18:40:32.512 15471 Generated table #367@0: 14 keys, 770948 bytes
+2018/11/13-18:40:32.512 15471 Compacted 4@0 + 3@1 files => 5131708 bytes
+2018/11/13-18:40:32.515 15471 compacted to: files[ 0 4 0 0 0 0 0 ]
+2018/11/13-18:40:32.515 15471 Delete type=2 #362
+2018/11/13-18:40:32.515 15471 Delete type=2 #352
+2018/11/13-18:40:32.516 15471 Delete type=2 #354
+2018/11/13-18:40:32.516 15471 Delete type=2 #353
+2018/11/13-18:40:32.516 15471 Delete type=2 #359
+2018/11/13-18:40:32.516 15471 Delete type=2 #364
+2018/11/13-18:40:32.517 15471 Delete type=2 #357
+2018/11/13-19:13:28.913 15471 Level-0 table #369: started
+2018/11/13-19:13:28.975 15471 Level-0 table #369: 3555945 bytes OK
+2018/11/13-19:13:28.979 15471 Delete type=0 #363

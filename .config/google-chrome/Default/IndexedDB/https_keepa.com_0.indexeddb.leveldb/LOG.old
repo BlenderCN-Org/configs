@@ -1,0 +1,20 @@
+2018/11/09-15:19:07.903 31621 Reusing MANIFEST /home/moritz/.config/google-chrome/Default/IndexedDB/https_keepa.com_0.indexeddb.leveldb/MANIFEST-000001
+2018/11/09-15:19:07.903 31621 Recovering log #2174
+2018/11/09-15:19:07.903 31621 Reusing old log /home/moritz/.config/google-chrome/Default/IndexedDB/https_keepa.com_0.indexeddb.leveldb/002174.log 
+2018/11/09-15:19:08.091 32473 Current memtable full; waiting...
+2018/11/09-15:19:08.098 32480 Level-0 table #2180: started
+2018/11/09-15:19:08.102 32480 Level-0 table #2180: 2698 bytes OK
+2018/11/09-15:19:08.105 32480 Delete type=0 #2174
+2018/11/09-15:19:08.105 32480 Level-0 table #2182: started
+2018/11/09-15:19:08.105 32480 Level-0 table #2182: 0 bytes OK
+2018/11/09-15:19:08.108 32480 Delete type=0 #2179
+2018/11/09-15:19:08.108 32480 Manual compaction at level-0 from ' \x88\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' \x89\x01\x00\x00\x00' @ 0 : 0; will stop at ' \x88\x01\x00\x00\x05' @ 12142 : 1
+2018/11/09-15:19:08.108 32480 Compacting 1@0 + 2@1 files
+2018/11/09-15:19:08.129 32480 Generated table #2183@0: 82 keys, 2143943 bytes
+2018/11/09-15:19:08.138 32480 Generated table #2184@0: 274 keys, 423258 bytes
+2018/11/09-15:19:08.138 32480 Compacted 1@0 + 2@1 files => 2567201 bytes
+2018/11/09-15:19:08.140 32480 compacted to: files[ 0 2 1 0 0 0 0 ]
+2018/11/09-15:19:08.140 32480 Delete type=2 #2177
+2018/11/09-15:19:08.140 32480 Delete type=2 #2176
+2018/11/09-15:19:08.141 32480 Delete type=2 #2180
+2018/11/09-15:19:08.141 32480 Manual compaction at level-0 from ' \x88\x01\x00\x00\x05' @ 12142 : 1 .. ' \x89\x01\x00\x00\x00' @ 0 : 0; will stop at (end)

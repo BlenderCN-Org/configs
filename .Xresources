@@ -1,0 +1,111 @@
+Xcursor.theme: DMZ:White
+
+
+*foreground: #00cc00
+*foreground_bold: #a8a19f
+*cursor: #a8a19f
+*background:       #547D8B
+!!*background: rgba(0, 0, 0, .7)
+
+
+URxvt*color1:    #ee829f
+URxvt*color2:    #a5ffe1
+URxvt*color3:    #ffefcc
+URxvt*color4:    #97bbf7
+URxvt*color5:    #c0b7f9
+URxvt*color6:    #97e0ff
+URxvt*color7:    #d1d4e0
+URxvt*color8:    #7780a1
+URxvt*color9:    #ee829f
+URxvt*color10:   #a5ffe1
+URxvt*color11:   #ffefcc
+URxvt*color12:   #97bbf7
+URxvt*color13:   #c0b7f9
+URxvt*color14:   #97e0ff
+URxvt*color15:   #ffffff
+URxvt*color16:   #f99170
+URxvt*color17:   #fcc09e
+URxvt*color18:   #1f222d
+URxvt*color19:   #252936
+URxvt*color20:   #C0C5CE
+URxvt*color21:   #C9CCDB
+URxvt*background:   [85]#000000
+URxvt*foreground:   #E6EFF7
+
+
+!! black
+*color0: #1b1918
+*color8: #766e6b
+!! red
+*color1: #f22c40
+*color9: #f22c40
+!! green
+*color2: #5ab738
+*color10: #5ab738
+!! yellow
+*color3: #d5911a
+*color11: #d5911a
+!! blue
+*color4: #407ee7
+*color12: #407ee7
+!! magenta
+*color5: #6666ea
+*color13: #6666ea
+!! cyan
+*color6: #00ad9c
+*color14: #00ad9c
+!! white
+*color7: #a8a19f
+*color15: #f1efee
+
+URxvt.intensityStyles:	false
+
+URxvt.depth:		32
+URxvt.font: 		xft:monospace:size=11
+URxvt.scrollBar:	false
+URxvt.cursorColor:	magenta
+URxvt.fading:        30
+
+!! Extensions
+URxvt.perl-ext-common: default,matcher,resize-font,url-select,keyboard-select
+URxvt.colorUL:		#7780a1
+
+!! url-select
+URxvt.keysym.M-u:	perl:url-select:select_next
+URxvt.url-select.launcher: Firefox
+URxvt.url-select.underline: true
+
+!! keyboard-select:
+URxvt.keysym.M-Escape: perl:keyboard-select:activate
+
+!! resize-font
+URxvt.keysym.C-Down:     resize-font:smaller
+URxvt.keysym.C-Up:      resize-font:bigger
+URxvt.resize-font.step: 1
+
+!! Matcher
+URxvt.url-launcher:	Firefox
+URxvt.matcher.button:	1
+URxvt.iso14755: false
+URxvt.iso14755_52: false
+
+
+
+
+
+
+
+
+
+rofi.color-enabled:	true
+rofi.color-window:	#000, #000, #000
+rofi.color-normal:	#111, #819396, #222, #008ed4, #ffffff
+rofi.color-active:	#002b37, #008ed4, #003643, #008ed4, #66c6ff
+rofi.color-urgent:	#002b37, #da4281, #003643, #008ed4, #890661
+
+rofi.fake-transparency:	true
+rofi.lines:		3
+rofi.bw:		0
+rofi.opacity:		"10"
+rofi.hide-scrollbar:	true
+rofi.width:		30

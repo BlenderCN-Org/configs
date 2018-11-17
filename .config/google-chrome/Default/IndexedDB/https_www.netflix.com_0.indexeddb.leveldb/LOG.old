@@ -1,0 +1,21 @@
+2018/11/06-19:08:55.561 12264 Reusing MANIFEST /home/moritz/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2018/11/06-19:08:55.561 12264 Recovering log #127
+2018/11/06-19:08:55.562 12264 Reusing old log /home/moritz/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000127.log 
+2018/11/06-19:16:44.691 12784 Level-0 table #131: started
+2018/11/06-19:16:44.718 12784 Level-0 table #131: 2695134 bytes OK
+2018/11/06-19:16:44.722 12784 Delete type=0 #127
+2018/11/06-19:16:44.723 12784 Compacting 4@0 + 1@1 files
+2018/11/06-19:16:44.768 12784 Generated table #132@0: 16 keys, 61552 bytes
+2018/11/06-19:16:44.768 12784 Compacted 4@0 + 1@1 files => 61552 bytes
+2018/11/06-19:16:44.770 12784 compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/11/06-19:16:44.770 12784 Delete type=2 #125
+2018/11/06-19:16:44.771 12784 Delete type=2 #123
+2018/11/06-19:16:44.771 12784 Delete type=2 #131
+2018/11/06-19:16:44.771 12784 Delete type=2 #121
+2018/11/06-19:16:44.772 12784 Delete type=2 #128
+2018/11/06-20:30:21.762 12784 Level-0 table #134: started
+2018/11/06-20:30:21.783 12784 Level-0 table #134: 2263881 bytes OK
+2018/11/06-20:30:21.786 12784 Delete type=0 #130
+2018/11/06-22:08:56.294 12784 Level-0 table #136: started
+2018/11/06-22:08:56.315 12784 Level-0 table #136: 2206957 bytes OK
+2018/11/06-22:08:56.319 12784 Delete type=0 #133

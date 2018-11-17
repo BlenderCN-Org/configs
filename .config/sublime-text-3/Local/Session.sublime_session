@@ -1,0 +1,886 @@
+{
+	"folder_history":
+	[
+	],
+	"last_version": 3176,
+	"last_window_id": 2,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 1383.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/moritz/.config/wal/templates/colors-rofi-light.rasi",
+				"/home/moritz/.config/i3zen",
+				"/home/moritz/.config/i3gw",
+				"/home/moritz/.config/i3get",
+				"/home/moritz/.bashrc",
+				"/home/moritz/.scripts/tools/shortcuts",
+				"/home/moritz/.scripts/folders",
+				"/home/moritz/.config/ranger/rifle.conf",
+				"/home/moritz/.config/ranger/scope.sh",
+				"/home/moritz/.scripts/shortcuts.sh",
+				"/home/moritz/.config/ranger/rc.conf",
+				"/home/moritz/voidrice/.config/compton.conf",
+				"/home/moritz/.config/ranger/commands.py",
+				"/home/moritz/.config/ranger/commands_full.py",
+				"/home/moritz/.config/wal/templates/colors-rofi-dark.rasi",
+				"/home/moritz/.config/i3/i3blocks.conf",
+				"/home/moritz/Documents/Ubuntu_i3_documents/Rofi_script",
+				"/usr/lib/x86_64-linux-gnu/urxvt/perl/font-size",
+				"/media/moritz/Transcend/Dokumente/Onetab/2018-11-12_Onetab-save",
+				"/usr/lib/x86_64-linux-gnu/urxvt/perl/keyboard-select",
+				"/home/moritz/Documents/installer-scripts-master/betterlockscreen.sh",
+				"/home/moritz/.config/compton.conf",
+				"/home/moritz/Documents/Ubuntu_i3_documents/nvidia_settings_script",
+				"/home/moritz/Documents/Ubuntu_i3_documents/i3zen",
+				"/home/moritz/.config/conky.conf",
+				"/home/moritz/.Xresources",
+				"/home/moritz/.config/i3zen.sh",
+				"/home/moritz/Documents/Ubuntu_i3_documents/i3get.sh",
+				"/home/moritz/Documents/Ubuntu_i3_documents/i3gw.sh",
+				"/home/moritz/.config/i3/config"
+			],
+			"find":
+			{
+				"height": 28.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"ws",
+					"cf",
+					"use_preview_script",
+					"Ranger_LOAD",
+					"$inactive-bg-color",
+					"rofi",
+					"lock",
+					"false",
+					"Spotif",
+					"ws1"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 801.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/moritz/.config/i3/config",
+					"settings":
+					{
+						"buffer_size": 12424,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/moritz/.config/conky.conf",
+					"settings":
+					{
+						"buffer_size": 2659,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/moritz/.config/rofi/config",
+					"settings":
+					{
+						"buffer_size": 558,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/moritz/.vimrc",
+					"settings":
+					{
+						"buffer_size": 12150,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "# [Created by task 2.5.1 11/16/2018 22:34:54]\n# Taskwarrior program configuration file.\n# For more documentation, see http://taskwarrior.org or try 'man task', 'man task-color',\n# 'man task-sync' or 'man taskrc'\n\n# Here is an example of entries that use the default, override and blank values\n#   variable=foo   -- By specifying a value, this overrides the default\n#   variable=      -- By specifying no value, this means no default\n#   #variable=foo  -- By commenting out the line, or deleting it, this uses the default\n\n# Use the command 'task show' to see all defaults and overrides\n\n# Files\ndata.location=~/.task\n\n# Color theme (uncomment one to use)\n#include /usr/share/taskwarrior/light-16.theme\n#include /usr/share/taskwarrior/light-256.theme\n#include /usr/share/taskwarrior/dark-16.theme\n#include /usr/share/taskwarrior/dark-256.theme\n#include /usr/share/taskwarrior/dark-red-256.theme\n#include /usr/share/taskwarrior/dark-green-256.theme\n#include /usr/share/taskwarrior/dark-blue-256.theme\n#include /usr/share/taskwarrior/dark-violets-256.theme\n#include /usr/share/taskwarrior/dark-yellow-green.theme\n#include /usr/share/taskwarrior/dark-gray-256.theme\n#include /usr/share/taskwarrior/dark-gray-blue-256.theme\n#include /usr/share/taskwarrior/solarized-dark-256.theme\n#include /usr/share/taskwarrior/solarized-light-256.theme\n#include /usr/share/taskwarrior/no-color.theme\n\nuda.priority.value = H,M,,L\nurgency.uda.priority.L.coefficient=0\nurgency.uda.priority..coefficient=1.8\n\ntaskd.certificate=~/Downloads/private.certificate.pem\ntaskd.key=~/Downloads/private.key.pem\ntaskd.ca=~/Downloads/ca.cert.pem\ntaskd.server=taskwarrior.inthe.am:53589\ntaskd.credentials=inthe_am/ortz.moritz/a15254b7-bc48-4d02-ada6-b5f05baa2554\ntaskd.trust=ignore hostname\n\n# UDAs\nuda.trelloid.type=string\nuda.trelloid.label=Trello ID\nuda.trellolistname.type=string\nuda.trellolistname.label=Trello List Name\n",
+					"file": "/home/moritz/.taskrc",
+					"file_size": 1755,
+					"file_write_time": 131868821415422581,
+					"settings":
+					{
+						"buffer_size": 1890,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/moritz/.calcurse/keys",
+					"settings":
+					{
+						"buffer_size": 1205,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/moritz/.scripts/tools/shortcuts",
+					"settings":
+					{
+						"buffer_size": 1556,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/moritz/.key_directories",
+					"settings":
+					{
+						"buffer_size": 208,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/moritz/.key_files",
+					"settings":
+					{
+						"buffer_size": 532,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/moritz/.config/ranger/rc.conf",
+					"settings":
+					{
+						"buffer_size": 14772,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/moritz/.cache/wal/colors.Xresources",
+					"settings":
+					{
+						"buffer_size": 1509,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/moritz/.Xresources",
+					"settings":
+					{
+						"buffer_size": 2180,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/moritz/.config/compton.conf",
+					"settings":
+					{
+						"buffer_size": 102,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/moritz/.bashrc",
+				"/home/moritz/.vimrc",
+				"/home/moritz/.config/rofi/config",
+				"/home/moritz/.config/redshift/redshift.conf",
+				"/home/moritz/.config/qutebrowser/config.py",
+				"/home/moritz/.config/qutebrowser/shortcuts.py",
+				"/home/moritz/ccf",
+				"/home/moritz/.config/wal/templates/colors-rofi-light.rasi",
+				"/home/moritz/.config/i3zen",
+				"/home/moritz/.config/i3gw",
+				"/home/moritz/.config/i3get",
+				"/home/moritz/.scripts/tools/shortcuts",
+				"/home/moritz/.scripts/folders",
+				"/home/moritz/.config/ranger/rifle.conf",
+				"/home/moritz/.config/ranger/scope.sh",
+				"/home/moritz/.scripts/shortcuts.sh",
+				"/home/moritz/.config/ranger/rc.conf",
+				"/home/moritz/voidrice/.config/compton.conf",
+				"/home/moritz/.config/ranger/commands.py",
+				"/home/moritz/.config/ranger/commands_full.py",
+				"/home/moritz/.config/wal/templates/colors-rofi-dark.rasi",
+				"/home/moritz/.config/i3/i3blocks.conf",
+				"/home/moritz/Documents/Ubuntu_i3_documents/Rofi_script",
+				"/usr/lib/x86_64-linux-gnu/urxvt/perl/font-size",
+				"/media/moritz/Transcend/Dokumente/Onetab/2018-11-12_Onetab-save",
+				"/usr/lib/x86_64-linux-gnu/urxvt/perl/keyboard-select",
+				"/home/moritz/Documents/installer-scripts-master/betterlockscreen.sh",
+				"/home/moritz/.config/compton.conf",
+				"/home/moritz/Documents/Ubuntu_i3_documents/nvidia_settings_script",
+				"/home/moritz/Documents/Ubuntu_i3_documents/i3zen",
+				"/home/moritz/.config/conky.conf",
+				"/home/moritz/.Xresources",
+				"/home/moritz/.config/i3zen.sh",
+				"/home/moritz/Documents/Ubuntu_i3_documents/i3get.sh",
+				"/home/moritz/Documents/Ubuntu_i3_documents/i3gw.sh",
+				"/home/moritz/.config/i3/config"
+			],
+			"find":
+			{
+				"height": 31.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"ws",
+					"cf",
+					"use_preview_script",
+					"Ranger_LOAD",
+					"$inactive-bg-color",
+					"rofi",
+					"lock",
+					"false",
+					"Spotif",
+					"ws1"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 5,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/moritz/.config/i3/config",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 12424,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										12421,
+										12421
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 8,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 5980.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/moritz/.config/conky.conf",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2659,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2659,
+										2659
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 684.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/moritz/.config/rofi/config",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 558,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										123,
+										123
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Bash.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/moritz/.vimrc",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 12150,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										419,
+										419
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/moritz/.taskrc",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1890,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1539,
+										1539
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/moritz/.calcurse/keys",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1205,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1019,
+										1019
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/home/moritz/.scripts/tools/shortcuts",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1556,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										555,
+										555
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Bash.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 12,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/home/moritz/.key_directories",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 208,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										126,
+										126
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Batch File/Batch File.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 11,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/home/moritz/.key_files",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 532,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										531,
+										531
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 10,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/home/moritz/.config/ranger/rc.conf",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 14772,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										195,
+										195
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 8778.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "/home/moritz/.cache/wal/colors.Xresources",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1509,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"file": "/home/moritz/.Xresources",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2180,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1459,
+										1459
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 12,
+							"file": "/home/moritz/.config/compton.conf",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 102,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										102,
+										102
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,3986,28,4669,1411,5360,1440",
+			"project": "",
+			"replace":
+			{
+				"height": 58.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

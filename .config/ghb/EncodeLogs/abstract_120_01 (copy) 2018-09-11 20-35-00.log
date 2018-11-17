@@ -1,0 +1,229 @@
+Handbrake Version: 1.1.1 (2018061800)
+[20:35:00] gtkgui: Modified Preset: /General/Fast 1080p30
+[20:35:00] 1 job(s) to process
+[20:35:00] json job:
+{
+    "Audio": {
+        "AudioList": [],
+        "CopyMask": [],
+        "FallbackEncoder": 0
+    },
+    "Destination": {
+        "AlignAVStart": true,
+        "ChapterList": [
+            {
+                "Name": ""
+            }
+        ],
+        "ChapterMarkers": false,
+        "File": "/home/moritz/Documents/abstract_120_01 (copy).m4v",
+        "InlineParameterSets": false,
+        "Mp4Options": {
+            "IpodAtom": false,
+            "Mp4Optimize": true
+        },
+        "Mux": "m4v"
+    },
+    "Filters": {
+        "FilterList": [
+            {
+                "ID": 3,
+                "Settings": {
+                    "block-height": "16",
+                    "block-thresh": "40",
+                    "block-width": "16",
+                    "filter-mode": "2",
+                    "mode": "3",
+                    "motion-thresh": "1",
+                    "spatial-metric": "2",
+                    "spatial-thresh": "1"
+                }
+            },
+            {
+                "ID": 4,
+                "Settings": {
+                    "mode": "7"
+                }
+            },
+            {
+                "ID": 6,
+                "Settings": {
+                    "mode": 2,
+                    "rate": "27000000/900000"
+                }
+            },
+            {
+                "ID": 11,
+                "Settings": {
+                    "crop-bottom": 0,
+                    "crop-left": 0,
+                    "crop-right": 0,
+                    "crop-top": 0,
+                    "height": 1080,
+                    "width": 1250
+                }
+            }
+        ]
+    },
+    "Metadata": {
+        "Name": "abstract_120_01 (copy)"
+    },
+    "PAR": {
+        "Den": 125,
+        "Num": 108
+    },
+    "SequenceID": 0,
+    "Source": {
+        "Angle": 0,
+        "Path": "/media/moritz/Transcend/Work/3D/Digital_art/Fusion/Abstract_120/abstract_120_01 (copy).mkv",
+        "Range": {
+            "End": 1,
+            "Start": 1,
+            "Type": "chapter"
+        },
+        "Title": 1
+    },
+    "Subtitle": {
+        "Search": {
+            "Burn": true,
+            "Default": false,
+            "Enable": false,
+            "Forced": false
+        },
+        "SubtitleList": []
+    },
+    "Video": {
+        "ColorMatrixCode": 0,
+        "Encoder": "x264",
+        "Level": "4.0",
+        "Options": "",
+        "Preset": "fast",
+        "Profile": "main",
+        "QSV": {
+            "AsyncDepth": 4,
+            "Decode": false
+        },
+        "Quality": 22.0,
+        "Tune": "",
+        "Turbo": false,
+        "TwoPass": false
+    }
+}
+[20:35:00] CPU: Intel(R) Core(TM) i7-5500U CPU @ 2.40GHz
+[20:35:00]  - Intel microarchitecture Broadwell
+[20:35:00]  - logical processor count: 4
+[20:35:00] hb_scan: path=/media/moritz/Transcend/Work/3D/Digital_art/Fusion/Abstract_120/abstract_120_01 (copy).mkv, title_index=1
+udfread ERROR: ECMA 167 Volume Recognition failed
+disc.c:323: failed opening UDF image /media/moritz/Transcend/Work/3D/Digital_art/Fusion/Abstract_120/abstract_120_01 (copy).mkv
+disc.c:424: error opening file BDMV/index.bdmv
+disc.c:424: error opening file BDMV/BACKUP/index.bdmv
+[20:35:00] bd: not a bd - trying as a stream/file instead
+libdvdnav: Using dvdnav version 5.0.3
+libdvdread: Encrypted DVD support unavailable.
+libdvdread:DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdread:DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.BUP failed
+libdvdread: Can't open file VIDEO_TS.IFO.
+libdvdnav: vm: failed to read VIDEO_TS.IFO
+[20:35:00] dvd: not a dvd - trying as a stream/file instead
+Input #0, matroska,webm, from '/media/moritz/Transcend/Work/3D/Digital_art/Fusion/Abstract_120/abstract_120_01 (copy).mkv':
+  Metadata:
+    title           : abstract_120_01 (copy)
+    CREATION_TIME   : 2018-09-11T18:32:34Z
+    ENCODER         : Lavf57.7.2
+  Duration: 00:00:04.80, start: 0.000000, bitrate: N/A
+    Stream #0:0: Video: h264 (Main)
+      yuv420p, tv, bt709/bt709/bt709
+      1250x1080 [PAR 108:125 DAR 1:1], PAR 108:125 DAR 1:1
+      25 fps, 1k tbn (default)
+[20:35:00] scan: decoding previews for title 1
+[20:35:01] scan: 10 previews, 1250x1080, 25,000 fps, autocrop = 0/0/0/0, aspect 1,00:1, PAR 108:125
+[20:35:01] libhb: scan thread found 1 valid title(s)
+[20:35:01] starting job
+[20:35:01] decomb filter thread started for segment 0
+[20:35:01] decomb filter thread started for segment 3
+[20:35:01] decomb check thread started for segment 0
+[20:35:01] decomb filter thread started for segment 1
+[20:35:01] decomb check thread started for segment 1
+[20:35:01] decomb filter thread started for segment 2
+[20:35:01] decomb check thread started for segment 3
+[20:35:01] mask filter thread started for segment 0
+[20:35:01] mask filter thread started for segment 1
+[20:35:01] mask filter thread started for segment 2
+[20:35:01] mask filter thread started for segment 3
+[20:35:01] mask erode thread started for segment 0
+[20:35:01] mask erode thread started for segment 1
+[20:35:01] mask erode thread started for segment 2
+[20:35:01] mask erode thread started for segment 3
+[20:35:01] mask dilate thread started for segment 0
+[20:35:01] mask dilate thread started for segment 1
+[20:35:01] mask dilate thread started for segment 2
+[20:35:01] mask dilate thread started for segment 3
+[20:35:01] yadif thread started for segment 0
+[20:35:01] yadif thread started for segment 1
+[20:35:01] yadif thread started for segment 2
+[20:35:01] yadif thread started for segment 3
+[20:35:01] job configuration:
+[20:35:01]  * source
+[20:35:01]    + /media/moritz/Transcend/Work/3D/Digital_art/Fusion/Abstract_120/abstract_120_01 (copy).mkv
+[20:35:01]    + title 1, chapter(s) 1 to 1
+[20:35:01]    + container: matroska,webm
+[20:35:01]  * destination
+[20:35:01]    + /home/moritz/Documents/abstract_120_01 (copy).m4v
+[20:35:01]    + container: MPEG-4 (libavformat)
+[20:35:01]      + optimized for HTTP streaming (fast start)
+[20:35:01]      + align initial A/V stream timestamps
+[20:35:01]  * video track
+[20:35:01]    + decoder: h264
+[20:35:01]    + filters
+[20:35:01]      + Comb Detect (mode=3:spatial-metric=2:motion-thresh=1:spatial-thresh=1:filter-mode=2:block-thresh=40:block-width=16:block-height=16)
+[20:35:01]      + Decomb (mode=39)
+[20:35:01]      + Framerate Shaper (mode=2:rate=27000000/900000)
+[20:35:01]        + frame rate: 25,000 fps -> peak rate limited to 30,000 fps
+[20:35:01]      + Crop and Scale (width=1250:height=1080:crop-top=0:crop-bottom=0:crop-left=0:crop-right=0)
+[20:35:01]        + source: 1250 * 1080, crop (0/0/0/0): 1250 * 1080, scale: 1250 * 1080
+[20:35:01]    + Output geometry
+[20:35:01]      + storage dimensions: 1250 x 1080
+[20:35:01]      + pixel aspect ratio: 108 : 125
+[20:35:01]      + display dimensions: 1080 x 1080
+[20:35:01]    + encoder: H.264 (libx264)
+[20:35:01]      + preset:  fast
+[20:35:01]      + profile: main
+[20:35:01]      + level:   4.0
+[20:35:01]      + quality: 22,00 (RF)
+[20:35:01] decomb check thread started for segment 2
+[20:35:01] sync: expecting 120 video frames
+[20:35:01] encx264: encoding at constant RF 22,000000
+[20:35:01] encx264: unparsed options: level=4.0:ref=2:8x8dct=0:weightp=1:subme=6:vbv-bufsize=25000:vbv-maxrate=20000:rc-lookahead=30
+x264 [info]: using SAR=108/125
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+x264 [info]: profile Main, level 4.0
+[20:35:01] sync: first pts video is 0
+[20:35:01] sync: Chapter 1 at frame 1 time 0
+[20:35:02] reader: done. 1 scr changes
+[20:35:08] work: average encoding speed for job is 0,000000 fps
+[20:35:08] comb detect: heavy 0 | light 3 | uncombed 117 | total 120
+[20:35:08] decomb: deinterlaced 0 | blended 3 | unfiltered 117 | total 120
+[20:35:08] vfr: 120 frames output, 0 dropped and 0 duped for CFR/PFR
+[20:35:08] vfr: lost time: 0 (0 frames)
+[20:35:08] vfr: gained time: 0 (0 frames) (0 not accounted for)
+[20:35:08] h264-decoder done: 120 frames, 0 decoder errors
+[20:35:08] sync: got 120 frames, 120 expected
+[20:35:08] sync: framerate min 25,000 fps, max 25,000 fps, avg 25,000 fps
+x264 [info]: frame I:1     Avg QP:20,55  size: 63523
+x264 [info]: frame P:31    Avg QP:20,52  size: 35597
+x264 [info]: frame B:88    Avg QP:22,05  size: 13699
+x264 [info]: consecutive B-frames:  0,8%  3,3%  2,5% 93,3%
+x264 [info]: mb I  I16..4: 29,4%  0,0% 70,6%
+x264 [info]: mb P  I16..4: 30,9%  0,0% 19,0%  P16..4: 32,5% 12,8%  3,7%  0,0%  0,0%    skip: 1,2%
+x264 [info]: mb B  I16..4:  5,8%  0,0%  1,1%  B16..8: 39,7% 12,0%  0,6%  direct:15,2%  skip:25,6%  L0:43,2% L1:47,4% BI: 9,4%
+x264 [info]: coded y,uvDC,uvAC intra: 23,7% 66,2% 15,5% inter: 9,1% 54,8% 0,7%
+x264 [info]: i16 v,h,dc,p: 44% 30% 19%  7%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 20% 21% 32%  5%  6%  4%  6%  2%  4%
+x264 [info]: i8c dc,h,v,p: 51% 27% 17%  5%
+x264 [info]: Weighted P-Frames: Y:3,2% UV:3,2%
+x264 [info]: ref P L0: 85,5% 14,5%
+x264 [info]: ref B L0: 87,3% 12,7%
+x264 [info]: ref B L1: 97,1%  2,9%
+x264 [info]: kb/s:3954,28
+[20:35:08] mux: track 0, 120 frames, 2372520 bytes, 3921,52 kbps, fifo 128
+[20:35:08] libhb: work result = 0
