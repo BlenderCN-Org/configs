@@ -6,7 +6,7 @@
 + git commit -m "commit message"
 + git push origin master
 
-## for copying files into configs
+## for copying files into configs folder
 
 + mv /path/ .
 + ln -s thefile theplacetoputit
